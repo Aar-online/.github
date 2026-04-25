@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/Aar-online/.github/refs/heads/main/Aaronline-logo.svg" alt="Aaronline" height="160" />
+<img src="https://raw.githubusercontent.com/Aar-online/.github/refs/heads/main/Aaronline-logo.svg" alt="Aaronline" height="120" />
 
 **Modern web agency — websites, apps & AI solutions**
 
